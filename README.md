@@ -28,7 +28,7 @@ Chatty Coder is an AI-powered chat assistant right inside Visual Studio Code, he
    - Open Visual Studio Code
    - Open the command palette (Ctrl+Shift+P or Cmd+Shift+P) and run Chatty Coder
 
----
+
 
 ## Usage
 
