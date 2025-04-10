@@ -9,7 +9,7 @@
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/suto6/chatty-coder
+git clone https://github.com/suto6/chatty-coder.git
 cd chatty-coder  
 ```
 
