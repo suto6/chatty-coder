@@ -1,71 +1,40 @@
-# suto README
+# 💬 Chatty Coder
 
-This is the README for your extension "suto". After writing up a brief description, we recommend including the following sections.
+Chatty Coder is an AI-powered chat assistant right inside Visual Studio Code, helping you code smarter and faster with the power of [DeepSeek](https://deepseek.com) running on [Ollama](https://ollama.com). Ask your code-related questions and get instant answers without leaving your editor.
+🌱
+---
 
-## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+##  Installation
 
-For example if there is an image subfolder under your extension project workspace:
+1. **Clone the repository**
 
-\!\[feature X\]\(images/feature-x.png\)
+   ```bash
+   git clone https://github.com/your-username/chatty-coder.git
+   cd chatty-coder
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+2. **Install dependencies**
 
-## Requirements
+  ```bash
+   npm install
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+3. **Compile the extension**
 
-## Extension Settings
+   ```bash
+   npm run Compile
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+4. **Run the extension in Visual Studio Code**
 
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
+   - Open Visual Studio Code
+   - Open the command palette (Ctrl+Shift+P or Cmd+Shift+P) and run Chatty Coder
 
 ---
 
-## Following extension guidelines
+## Usage
 
-Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
+1. Open the command palette:  
+   `Ctrl + Shift + P` (Windows/Linux) or `Cmd + Shift + P` (Mac)
 
-* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
+2. Type and select **Chatty Coder**
 
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+3. A chat window will appear in a new panel. Start asking questions!
