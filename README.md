@@ -1,7 +1,6 @@
 # 💬 Chatty Coder
 
-## Chatty Coder is an AI-powered chat assistant right inside Visual Studio Code, helping you code smarter and faster with the power of [DeepSeek](https://deepseek.com) running on [Ollama](https://ollama.com). Ask your code-related questions and get instant answers without leaving your editor.
-🌱
+### Chatty Coder is an AI-powered chat assistant right inside Visual Studio Code, helping you code smarter and faster with the power of [DeepSeek](https://deepseek.com) running on [Ollama](https://ollama.com). Ask your code-related questions and get instant answers without leaving your editor. 🌱
 ---
 
 
